@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=edward1503)
 <!--
 **edward1503/edward1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
