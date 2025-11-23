@@ -4,22 +4,22 @@
   <img src="https://komarev.com/ghpvc/?username=edward1503&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="center">Connect with me!</h3>
+<h3 align="center"> 📞 Connect with me!</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
+  <a href="https://linkedin.com/in/edward1503">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <a href="https://twitter.com/[YOUR_X_USERNAME]">
+  <a href="https://twitter.com/@cNguyn85772453">
     <img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   
-  <a href="https://facebook.com/[YOUR_FACEBOOK_USERNAME]">
+  <a href="https://facebook.com/ngdduc000">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   
-  <a href="https://huggingface.co/[YOUR_HF_USERNAME]">
+  <a href="https://huggingface.co/edward1503">
     <img src="https://img.shields.io/badge/Hugging%20Face-%23FFCC00.svg?&style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
 </p>
