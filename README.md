@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Nguyễn Đôn Đức, so called Edward!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edward1503&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <!-- ### 🏆 Featured Projects -->
 <div align="center">
-<h2>🌱 Github Streak &  Contributions</h2>
+<h2>⚡ Github Contributions</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=edward1503)](https://streak-stats.demolab.com/?user=edward1503)
 
