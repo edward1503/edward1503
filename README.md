@@ -4,8 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=edward1503&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=edward1503)
+### 🌱 About Me
 
+-  **Background:** Fresher graduated Data Science, focusing on **Data Science and AI applications**.
+- 🎯 **Goal:** Applying Machine Learning and Deep Learning into practical problems.
+ 
 <!--
 **edward1503/edward1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
