@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="dist/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+</p> -->
+
+
+### 🏆 Featured Projects
