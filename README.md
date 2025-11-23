@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 
 <!-- ### 🏆 Featured Projects -->
-
+<div align="center">
+<h2>🌱 Github Streak &  Contributions</h2>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem)
 <img src="https://raw.githubusercontent.com/mylethidiem/mylethidiem/output/github-contribution-grid-snake.svg" alt="Snake animation" width="2000"/>
 </div>
