@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 </p> -->
 
 
-### 🏆 Featured Projects
+<!-- ### 🏆 Featured Projects -->
