@@ -26,31 +26,16 @@
 
 ### 🌱 About Me
 
--  **Background:** Fresher graduated Data Science, focusing on **Data Science and AI applications**.
+- 🏫 **Background:** Fresher graduated Data Science, focusing on **Data Science and AI applications**.
 - 🎯 **Goal:** Applying Machine Learning and Deep Learning into practical problems.
- 
-<!--
-**edward1503/edward1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Tools
+- 🐍 **Languages:** Python, SQL 
+- 📊 **Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch  
+- ⚙️ **Dev Tools:** Docker, FastAPI,  
+- 🔄 **Version Control:** Git, DVC  
+- ☁️ **Cloud & Big Data:** AWS, GCP, PySpark, Databricks, ETL workflows  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!-- <p align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="snake" />
-</p> -->
-
-
-<!-- ### 🏆 Featured Projects -->
 <div align="center">
 <h2>⚡ Github Contributions</h2>
 
@@ -59,8 +44,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/edward1503/edward1503/output/github-contribution-grid-snake.svg" alt="Snake animation" width="2000"/>
 </div>
 
-<!-- 
----
-<div align="center">
-<h2></h2>
-</div> -->
