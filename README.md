@@ -30,16 +30,16 @@
 - 🎯 **Goal:** Applying Machine Learning and Deep Learning into practical problems.
 
 ### 🛠️ Skills & Tools
-- 🐍 **Languages:** Python, SQL 
-- 📊 **Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch  
-- ⚙️ **Dev Tools:** Docker, FastAPI,  
+- 🐍 **Programming in Python**
+- 📊 **Machine Learning & Deep Learning:** Scikit-learn, PyTorch  
+- ⚙️ **MLOps:** Docker, FastAPI, 
 - 🔄 **Version Control:** Git, DVC  
-- ☁️ **Cloud & Big Data:** AWS, GCP, PySpark, Databricks, ETL workflows  
+- ☁️ **Cloud & Big Data:** AWS, GCP, PySpark, Databricks. 
 
 <div align="center">
 <h2>⚡ Github Contributions</h2>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=edward1503)](https://streak-stats.demolab.com/?user=edward1503)
+<!-- 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=edward1503&cache_bust=1)](https://streak-stats.demolab.com/?user=edward1503) -->
 
 <img src="https://raw.githubusercontent.com/edward1503/edward1503/output/github-contribution-grid-snake.svg" alt="Snake animation" width="2000"/>
 </div>
